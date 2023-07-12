@@ -53,7 +53,7 @@ To run the library management page locally, follow these steps:
 5. Access the library management page in your browser at `http://localhost:3000` (or the specified port).
 
 ## Hosted website
-[Library Management System](devrev-task-eta.vercel.app)
+[Library Management System](https://devrev-task-eta.vercel.app)
 
 ## Contribution
 
